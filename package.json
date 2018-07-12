@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Generate a swedish licenseplate on the format ABC 123",
   "repository": {
-    "url": "www.github.com/mannberg/licenseplate-generator",
+    "url": "https://github.com/manmountain/licenseplate-generator.git",
     "type": "git"
   },
   "main": "server.js",
