@@ -16,7 +16,7 @@ app.get('*', function (req, res) {
 })
 
 app.listen(port, ip, function () {
-  console.log( "Licence plate generator listening on http://" + ip + "/:" + port + "/svg/ABC-123")
+  console.log( "Licence plate generator listening on http://" + ip + ":" + port + "/svg/ABC-123")
 });
 
 module.exports = app;
