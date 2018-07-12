@@ -1,0 +1,22 @@
+{
+  "name": "licenseplate-generator",
+  "version": "0.0.0",
+  "description": "Generate a swedish licenseplate on the format ABC 123",
+  "repository": {
+    "url": "www.github.com/mannberg/licenseplate-generator",
+    "type": "git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=8.5.0"
+  },
+  "author": "mannberg <mannberg@github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
